@@ -345,4 +345,13 @@ body {
 	.section.two img {
 		height: 420px
 	}
+
+	.first-blog{
+		grid-row-start: 1;
+		grid-row-end: 3;
+	}
+
+	.section.three {
+		margin: 40px 0;
+	}
 }
