@@ -231,7 +231,7 @@ body {
 	display: flex
 }
 
-@media only screen and (max-width: 376px) {
+@media only screen and (max-width: 678px) {
 	.mobile-hidden {
 		display: none;
 	}
